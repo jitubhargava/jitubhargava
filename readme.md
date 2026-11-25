@@ -62,7 +62,6 @@ My learning approach is simple:
 
 <table>
   <tr>
-    
     <td width="50%" valign="top">
       <h3>Private Pilot: AI Browser Security and PII Redactor</h3>
       <p>A browser extension that masks sensitive information (PII) with placeholders so AI agentic browsers like Perplexity Comet cannot read it.</p>
@@ -75,6 +74,7 @@ My learning approach is simple:
       <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, OpenAI / Gemini API, Tailwind CSS, PDFKit / jsPDF</p>
       <p><a href="https://github.com/saranshbhargava">Repo</a></p>
     </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top">
