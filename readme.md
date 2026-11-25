@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1d4ed8&height=220&section=header&text=Saransh%20Bhargava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Mentor%20%E2%80%A2%20VP%20at%20ASPER%20Club%20%E2%80%A2%20IT%20Engineering%20Student&descAlignY=60&descSize=15" width="100%" alt="Saransh Bhargava - Full Stack Developer, DSA Mentor" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1d4ed8&height=220&section=header&text=Saransh%20Bhargava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20DSA%20Mentor%20%E2%80%A2%20VP%20at%20ASPER%20Club%20%E2%80%A2%20IT%20Engineering%20Student&descAlignY=60&descSize=15" width="100%" alt="Saransh Bhargava - Full Stack Developer, DSA Mentor" />
 
 <a href="https://www.linkedin.com/in/saranshbhargava">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+full-stack+MERN+apps+and+AI-powered+tools;Leading+DSA+sessions+as+VP+of+ASPER+Club;Final-year+IT+Engineering+student+at+UIT+RGPV+Bhopal;Targeting+SDE-1+%2F+Software+Developer+roles" alt="Typing animation" />
