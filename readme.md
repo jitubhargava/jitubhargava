@@ -138,16 +138,17 @@ I'm also the **Vice President of ASPER Club**, where I lead DSA sessions coverin
 
 ---
 
-## GitHub Stats
+## Contribution Grid & Live Stack Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranshbhargava&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshbhargava&layout=compact&langs_count=6&hide=html,css&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saranshbhargava&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="https://raw.githubusercontent.com/saranshbhargava/saranshbhargava/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=700&color=10B981&center=true&vCenter=true&width=900&lines=%5BCLIENT%5D+---%3E+React+%2B+Vite+UI+---%3E+REST+API+%2B+JWT+Auth+Middleware;%5BBACKEND%5D+---%3E+Node.js+%2B+Express+Cluster+---%3E+MongoDB+Atlas;%5BAI+PIPELINE%5D+---%3E+PII+Redaction+Proxy+---%3E+Gemini+%2F+OpenAI+LLM;%5BDSA+ENGINE%5D+---%3E+Java+Solutions+---%3E+O(N+log+N)+Optimal+Complexity" alt="Live Stack Pipeline" />
+
+</div>
 
 ---
 
