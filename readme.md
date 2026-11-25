@@ -8,10 +8,10 @@
 
 <p><strong>Building real-world full-stack projects, solving problems with DSA, and helping fellow students learn along the way.</strong></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saranshbhargava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranshbhargava)
-[![LeetCode](https://img.shields.io/badge/LeetCode-saranshbhargava-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saranshbhargava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saranshbhargava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-bharagava/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-saranshbhargava-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saransh_Bhargava/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saranshbhargava.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=3B82F6)](https://saranshbhargava.netlify.app)
-[![Email](https://img.shields.io/badge/Contact-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavasaransh037@gmail.com)
 
 </div>
 
