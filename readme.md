@@ -37,7 +37,7 @@ My learning approach is simple:
   <tr>
     <td width="50%" valign="top">
       <h3>Full Stack Development</h3>
-      <p>Building MERN applications with authentication, REST APIs, dashboards, and live data integrations.</p>
+      <p>Building web applications with authentication, REST APIs, dashboards, and live data integrations.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Data Structures and Algorithms</h3>
@@ -62,16 +62,17 @@ My learning approach is simple:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>AI Resume Builder and Analyzer</h3>
-      <p>Generates ATS-optimized resumes tailored to a job description, parses uploaded resumes, finds skill gaps, computes matching scores, and exports polished resumes in one click.</p>
-      <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, OpenAI / Gemini API, Tailwind CSS, PDFKit / jsPDF</p>
-      <p><a href="https://github.com/saranshbhargava">Repo</a></p>
-    </td>
+    
     <td width="50%" valign="top">
       <h3>Private Pilot: AI Browser Security and PII Redactor</h3>
       <p>A browser extension that masks sensitive information (PII) with placeholders so AI agentic browsers like Perplexity Comet cannot read it.</p>
       <p><strong>Stack:</strong> JavaScript, Browser Extension APIs</p>
+      <p><a href="https://github.com/saranshbhargava">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Resume Builder and Analyzer</h3>
+      <p>Generates ATS-optimized resumes tailored to a job description, parses uploaded resumes, finds skill gaps, computes matching scores, and exports polished resumes in one click.</p>
+      <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, OpenAI / Gemini API, Tailwind CSS, PDFKit / jsPDF</p>
       <p><a href="https://github.com/saranshbhargava">Repo</a></p>
     </td>
   </tr>
