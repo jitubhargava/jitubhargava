@@ -27,7 +27,7 @@ My learning approach is simple:
 
 > **Build it, break it, understand why it works.**
 
-I'm a **Reliance Foundation Scholar**, and I use that opportunity to keep learning through certifications and hands-on projects.
+
 
 ---
 
